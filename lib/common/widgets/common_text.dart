@@ -1,0 +1,207 @@
+class CommonText {
+  static const String nairaSign = "₦";
+
+  static const String onBoardTexts = "Your Super-Human\nsales partner";
+  static const String onBoardTexts2 = "Fast, Smart, Powerful";
+  static const String onBoardTexts3 =
+      "Your secret weapon for supercharging\nyour services and Boosting your sales.";
+  static const String signUp = "Sign up";
+  static const String login = "Login";
+  static const String logout = "Log out";
+  static const String createAc = "Create an account";
+  static const String firstName = "First name";
+  static const String lastName = "Last name";
+  static const String phoneNo = "Phone No";
+  static const String referCode = "Referral code (optional)";
+  static const String password = "Password";
+  static const String confirmPass = "Confirm Password";
+  static const String continueText = "Continue";
+  static const String alreadyAc = "Already have an account ";
+  static const String loginAc = "Login ?";
+  static const String businessInfo = "Provide business info";
+  static const String businessName = "Business name";
+  static const String businessAddress = "Business Address";
+  static const String industry = "Industry";
+  static const String bankName = "Bank Name";
+  static const String acNo = "Account Number";
+  static const String whyAcNo = "Why account no ?";
+  static const String businessDesc = "Business description";
+  static const String businessVerifications = "Business verifications";
+  static const String ownerFullName = "Owner’s Full Name";
+  static const String fullName = "Full Name";
+  static const String ownerNo = "Owner’s Phone Number";
+  static const String ownerEmail = "Owner’s Email Address";
+  static const String instagramHandle = "Instagram handle (Optional)";
+  static const String facebookHandle = "Facebook handle (Optional)";
+  static const String twitterHandle = "Twitter handle (Optional)";
+  static const String cacCerti = "CAC Certificate";
+  static const String otherDoq = "Other Document (Optional)";
+  static const String emailAd = "Email Address";
+  static const String forgotPass = "Forgot Password";
+  static const String currentPass = "Current Password";
+  static const String newPass = "New Password";
+  static const String confirmNewPass = "Confirm New Password";
+  static const String updatePass = "Update Password";
+  static const String dontHaveAc = "Don't have an account ";
+  static const String createOne = "Create one ?";
+  static const String order = "Order";
+  static const String orders = "Orders";
+  static const String chats = "Chats";
+  static const String shop = "Shop";
+  static const String settings = "Settings";
+  static const String livechat = "Live-chat";
+  static const String emails = "Emails";
+  static const String telegram = "Telegram";
+  static const String all = "All";
+  static const String unread = "Unread";
+  static const String read = "Read";
+  static const String escalated = "Escalated";
+  static const String resolved = "Resolved";
+  static const String pending = "Pending";
+  static const String completed = "Completed";
+  static const String cancelled = "Cancelled";
+  static const String urgentInquiry = "Urgent inquiry - Refund";
+
+  static const String dearCredLPal = "Dear CredPal Team";
+  static const String header =
+      "I am writing to express my concern regarding the delayed activation of my virtual card.";
+  static const String body =
+      "I applied for the card on 18th Jun 2023, and it has now been 4 days without any progress. This delay is causing inconvenience as I am unable to proceed with important transactions.I kindly request your urgent attention to this matter. Please provide me with a clear timeline for card activation and regular updates until the issue is resolved.If there are any necessary documents or actions required from my end, please let me know";
+  static const String thankYou = "Thank you for your immediate assistance.";
+  static const String regard = "Warm Regards.";
+  static const String regard1 = "Victor Adeniyi.";
+  static const String reply = "Reply";
+  static const String response = "Generate Response";
+  static const String viewReceipt = "View receipt";
+  static const String payment = "Payment";
+  static const String payNow = "Pay Now";
+  static const String managementFee = "Management fee";
+  static const String productPayment = "Product Payment";
+  static const String discount = "Discount";
+  static const String totalAmountPaid = "Total Amount Paid";
+  static const String completeOrder = "Complete order";
+  static const String cancelOrder = "Cancel Order";
+  static const String completeKyc = "Complete KYC";
+  static const String inventory = "You have no inventory yet";
+  static const String add = "Add";
+  static const String addNew = "Add New";
+  static const String prodCategory = "Product Category";
+  static const String addTag = "Add New Tag";
+  static const String addContactKyc =
+      "Add business contact and more info\nabout your business. ";
+  static const String verify = "Verify";
+  static const String verifyBank =
+      "Add bank account,Upload CAC and\nadd your Products. ";
+  static const String verifyBusiness = "Verify your business";
+  static const String inventoryText = "Inventory";
+  static const String addProduct = "Add Product";
+  static const String price = "250,000.00";
+  static const String trainingData =
+      "Provide customers most Frequently (faq) asked questions about your business with answers";
+  static const String example = "Example";
+  static const String customer = "Customer: ";
+  static const String business =
+      "Hello business, I will like to know your business address.";
+  static const String yourResponse = "your response: ";
+  static const String youCanContact =
+      "We do not have a physical store, but you contact us on 080784***** and mail us at mailto:store@us.com";
+
+  static const String fAq = "Copy Paste your business FAQ here";
+  static const String save = "Save";
+  static const String uploadDoc = "Upload a DOC instead";
+  static const String methods = "Use other methods";
+  static const String faqAuto = "Auto-assisted FAQ";
+  static const String newFaq = "Newly detected FAQs";
+  static const String question = "Question: ";
+  static const String faqData =
+      "We've noticed common customer queries. Please offer suggested responses and feel free to include additional helpful information.";
+  static const String requestForSupport = "Request for direct support";
+  static const String requestSupport = "Request Support";
+  static const String autoGenerate = "Auto Generate";
+  static const String assistedAuto = "Assisted FAQ";
+  static const String assistedAutoFAQ =
+      "Share business details to auto-generated FAQ";
+  static const String kyc = "Complete your\nbusiness KYC";
+  static const String contact =
+      "Add business contact and more\ninfo about your business.";
+  static const String dummyDate = "Tue, 8th";
+  static const String iPhone = "iPhone XSMAX";
+  static const String cpc = "Clarity Peel Concentrate moisturizer (CPC)";
+  static const String que1 = "How do I track my order ?";
+  static const String que2 =
+      "Hello business, I will like to know your business address. ?";
+  static const String que3 = "How does enif meet business needs ?";
+  static const String updateFaq = "Update FAQ";
+  static const String editProf = "Edit profile";
+  static const String editProfile = "Edit Profile";
+  static const String trainCenter = "Training Center";
+  static const String businessChannels = "Business Channels";
+  static const String businessChannels2 =
+      "Connect your channels to unlock Enif full experience";
+  static const String info = "info";
+  static const String email = "Email";
+  static const String shutDown = "Shut down Enif";
+  static const String aiConfig = "Al Configuration";
+  static const String autoMode = "Automatic Mode";
+  static const String supervisedMode = "Supervised Mode";
+  static const String hybridMode = "Hybrid Mode";
+  static const String acVeri = "Account Verification";
+  static const String veriDoc = "Verified documents";
+  static const String custEng = "Customer Engagement";
+  static const String viewCust = "View Customers";
+  static const String custEngSurvey = "Customer Engagement Survey";
+  static const String custEngPoll = "Customer Engagement Poll";
+  static const String channel = "Channel";
+  static const String senti = "Sentiment";
+  static const String allCust = "All Customers";
+  static const String happy = "Happy";
+  static const String neutral = "Neutral";
+  static const String angry = "Angry";
+  static const String prodKnow = "Product Knowledge Center";
+  static const String recommFaq = "Recommended FAQ";
+  static const String liveChat = "Live-Chat, ";
+  static const String chatName = "Victor Adeniyi";
+  static const String smartphones = "Smartphones";
+  static const String laptops = "Laptops";
+  static const String headphones = "Headphones";
+  static const String bags = "Bags";
+  static const String tv = "TV";
+  static const String shoes = "Shoes";
+  static const String clothing = "Clothing";
+  static const String gaming = "Gaming";
+  static const String sports = "Sports";
+  static const String settingSubTitle = "We sell phones and gadgets";
+  static const String prodName = "Product Name";
+  static const String prodDesc = "Product Description";
+  static const String qty = "Quantity";
+  static const String cost = "Cost Price";
+  static const String selling = "Selling Price";
+  static const String optional = "optional";
+  static const String personalInfo = "Personal information";
+  static const String businessInformation = "Business information";
+  static const String businessAcName = "Business Account Name";
+  static const String businessAcNo = "Business Account No";
+  static const String saveChanges = "Save changes";
+  static const String orderComp = "Order Completed!";
+  static const String orderCanc = "Order Cancelled!";
+  static const String prodAdd = "Product added successfully!";
+  static const String invUpdate = "Inventory updated successfully!";
+  static const String invDlt = "Inventory deleted successfully!";
+  static const String faqAdd = "FAQ Added successfully!";
+  static const String faqUpdate = "FAQ updated successfully!";
+  static const String faqDelete = "FAQ deleted successfully!";
+  static const String loginSuccess = "Login successfully!";
+  static const String signUpSuccess = "SignUp successfully!";
+  static const String profUpdateSuccess = "Profile updated successfully!";
+  static const String thankYouMsg =
+      "Thank you for enhancing our user experience";
+  static const String errorMsg = "Something went wrong!";
+  static const String oops = "Oops!";
+  static const String savedFaq = "Saved FAQs";
+  static const String addMoreFaq = "Add more FAQ";
+  static const String addFaq = "Add FAQ";
+  static const String edit = "Edit";
+  static const String editFaq = "Edit FAQ";
+  static const String dlt = "Delete";
+  static const String editInv = "Edit Inventory";
+}
